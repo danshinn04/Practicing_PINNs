@@ -9,29 +9,6 @@ Below are some image results from the PINNs prediction of velocity fields
 ![image](https://github.com/user-attachments/assets/9f7afba9-8c0a-4e92-8cba-b8cd958fa0a9)
 ![image](https://github.com/user-attachments/assets/8ec3ccb1-800b-473f-85d4-d6a9be821565)
 
-**Table of Contents**
-
-Installation
-
-Dataset
-
-Usage
-
-Normalization
-
-Custom Loss Function
-
-Model Architecture
-
-Training
-
-Prediction
-
-Visualization
-
-Exporting Results
-
-Results
 
 
 **Dataset**
